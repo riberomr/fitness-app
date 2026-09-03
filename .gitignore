@@ -1,0 +1,47 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# testing
+coverage/
+
+# next.js
+.next/
+out/
+build/
+dist/
+
+# production
+*.tsbuildinfo
+next-env.d.ts
+
+# environment — never commit secrets
+.env
+.env*.local
+.env.local
+!.env.example
+
+# service account keys and credentials
+*-firebase-adminsdk-*.json
+client_secret*.json
+serviceAccountKey.json
+
+# vercel
+.vercel
+
+# editors and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# logs
+npm-debug.log*
+yarn-error.log*
+
+# firebase emulators
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
