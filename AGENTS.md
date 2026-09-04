@@ -2,7 +2,7 @@
 
 **Audience:** AI agents and anyone implementing in this repository.
 
-> Process: this repo follows [Solo SDD](https://github.com/riberomr/riberomr-sdd-kit) — contracts in
+> Process: this repo follows Solo SDD — contracts in
 > `specs/`, bets in `docs/pitches/`, decisions in `docs/adr/`, state in Linear.
 
 ---

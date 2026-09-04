@@ -28,4 +28,4 @@ Decisions that were expensive to make are recorded in [`docs/adr/`](docs/adr/).
 
 ## Process
 
-This repository follows [Solo SDD](https://github.com/riberomr/riberomr-sdd-kit): the bet lives in `docs/pitches/`, the contract and design in `specs/`, architectural decisions in `docs/adr/`, and status in Linear. See [`AGENTS.md`](AGENTS.md) for conventions.
+This repository follows Solo SDD: the bet lives in `docs/pitches/`, the contract and design in `specs/`, architectural decisions in `docs/adr/`, and status in Linear. See [`AGENTS.md`](AGENTS.md) for conventions.
